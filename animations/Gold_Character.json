@@ -1,11 +1,11 @@
 {
   "skeleton": {
-    "hash": "L/JXtpHLNkU",
+    "hash": "FpEQEf9QP/U",
     "spine": "4.0.47",
-    "x": -527,
-    "y": -210,
-    "width": 1312,
-    "height": 2511,
+    "x": 251,
+    "y": 43,
+    "width": 21,
+    "height": 21,
     "images": "./Images/",
     "audio": "X:/Cyball/cyball-source-art/Source/Characters/Bronze_Character/Spine/Json"
   },
@@ -93,7 +93,7 @@
     { "name": "head", "bone": "Head", "attachment": "head" },
     { "name": "mouth", "bone": "Head", "attachment": "mouth" },
     { "name": "eyes", "bone": "Head", "attachment": "eyes" },
-    { "name": "face_accessory", "bone": "Head" },
+    { "name": "face_accessory", "bone": "Head", "attachment": "face_accessory" },
     { "name": "hair", "bone": "Head", "attachment": "hair" },
     { "name": "ear_piece", "bone": "Head", "attachment": "ear_piece" }
   ],
